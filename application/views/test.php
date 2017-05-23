@@ -7,7 +7,7 @@
    </head>
 	
    <body> 
-      CodeIgniter View Example 
+      Hello!!! Chahana Here...
    </body>
 	
 </html>
